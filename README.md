@@ -20,8 +20,8 @@ X1=[0.1  0.8]T,  X2=[0.5  -0.2]T, X3=[-0.8  -0.9]T, X4=[-0.0.6  0.9]T.
 
 ## Math behind Implimentation 
 
-for BAM see this pdf : https://docs.google.com/a/iiita.ac.in/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnY25hbmRpfGd4OjQwM2JlNzhjZmQ1ODY5MmM
-for Kohonen Network  : https://docs.google.com/a/iiita.ac.in/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnY25hbmRpfGd4OjRmMDNhNmI1Yzk2MjY1MjU
+### for BAM see this pdf : https://docs.google.com/a/iiita.ac.in/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnY25hbmRpfGd4OjQwM2JlNzhjZmQ1ODY5MmM
+### for Kohonen Network  : https://docs.google.com/a/iiita.ac.in/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnY25hbmRpfGd4OjRmMDNhNmI1Yzk2MjY1MjU
 
 
 
